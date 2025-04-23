@@ -1,0 +1,12 @@
+venv/
+libclient.so
+server_proxy
+*.cubin
+funcinfo.txt
+*.log
+nccl_bin
+perf.data
+perf.data.old
+perf.out
+FlameGraph/
+*.o
