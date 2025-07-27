@@ -2,7 +2,7 @@
 
 A **lightweight**, **fast**, and **transparent** error recovery framework for LLM training in a just-in-time manner.
 
-<img src=".assets/overview.svg"></img>
+![](.assets/overview.svg)
 
 *Figure: The workflow of Mnemosyne. The left part shows the steady-state work, and the right part shows the recovery process.*
 
