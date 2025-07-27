@@ -1,6 +1,9 @@
-# Mnemosyne
-
-A **lightweight**, **fast**, and **transparent** error recovery framework for LLM training in a just-in-time manner.
+<p align="center">
+    <h1 align="center">Mnemosyne</h1>
+</p>
+<p align="center">
+    A <b>lightweight</b>, <b>fast</b>, and <b>transparent</b> error recovery framework for LLM training in a just-in-time manner.
+</p>
 
 ![Overview.](.assets/overview.png)
 
