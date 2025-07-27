@@ -1,5 +1,10 @@
 # Server Proxy Demo
 
+<p align="center">
+    <img src="../.assets/device-proxy.png" width="250px"/>
+</p>
+<p align="center">Figure: Overview of Device Proxy.</p>
+
 Our Server Proxy achieves the separation of PyTorch programs from the CUDA context on a single GPU and provides a demo program for training Transformer models.
 This README will detail the deployment process of the Server Proxy and the execution method of the demo program.
 
